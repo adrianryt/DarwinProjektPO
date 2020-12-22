@@ -1,0 +1,11 @@
+{
+  "startAnimals": 5,
+  "startEnergy": 23,
+  "mapWidth": 8,
+  "mapHight": 8,
+  "energyLose": 2,
+  "grassEnergy": 8,
+  "jungleRatio": 50,
+  "secondMap":false,
+ 
+}
